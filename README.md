@@ -12,7 +12,7 @@ Functionality I had to create:
 - Logic to handle the search and various requirements of the project.
 - Improve the supplied CSS to personalize the project.
 
-Extra functionality to the highest grading:
+Extra functionality to get the highest grading:
 
 - Browser navigation history - The app keeps track of the browser history and changes the page's data based on the current URL. Clicking the browser's forward and back buttons navigate the user through all the search history, keeping the URL and fetched data in sync.
 - 404 Error - A 404 error page is displayed in a friendly way when a URL doesn't match an existing route.
