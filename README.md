@@ -12,9 +12,9 @@ Functionality I had to create:
 - Logic to handle the search and various requirements of the project.
 - Improve the supplied CSS to personalize the project.
 
-Extra functonality to the highest grading:
+Extra functionality to the highest grading:
 
-- Browser navigation history - The app keeps track of the broser history and changes the page's data based on the current URL. Clicking the browser's forward and back buttons navigate the user through all the search history, keeping the URL and fetched data in sync.
+- Browser navigation history - The app keeps track of the browser history and changes the page's data based on the current URL. Clicking the browser's forward and back buttons navigate the user through all the search history, keeping the URL and fetched data in sync.
 - 404 Error - A 404 error page is displayed in a friendly way when a URL doesn't match an existing route.
 - Loading indicator - A loading spinner has been created that displays each time the app fetches new data.
 - No Matches Message - A friendly message displays if no matches are found by the search.
