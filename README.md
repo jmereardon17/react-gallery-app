@@ -19,4 +19,4 @@ Extra functionality to get the highest grading:
 - Loading indicator - A loading spinner has been created that displays each time the app fetches new data.
 - No Matches Message - A friendly message displays if no matches are found by the search.
 
-Grade: TBC
+Grade: Exceeds Expectations
